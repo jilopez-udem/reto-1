@@ -3,7 +3,7 @@ Agregue un cambio en la línea cuyo número corresponde al último par de dígit
 si mi cédula termina en 50, agregaré un cambio en la línea numerada como 50. Si ya hay un cambio en dicha línea, agregue su cambio sin
 eliminar el cambio existente.
 
-00.
+00. Alejandro
 01.
 02.
 03.
@@ -22,7 +22,7 @@ eliminar el cambio existente.
 16.
 17.
 18.
-19.
+19. Alejandro
 20.
 21.
 22.
@@ -70,7 +70,7 @@ eliminar el cambio existente.
 64.
 65.
 66.
-67.
+67. Alejandro
 68.
 69.
 70.
