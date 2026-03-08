@@ -49,7 +49,7 @@ eliminar el cambio existente.
 43.
 44.
 45.
-46.
+46.Reto 2 -cambio
 47.listo ya esta
 48.
 49.
@@ -57,7 +57,7 @@ eliminar el cambio existente.
 51.
 52.
 53.
-54.
+54.Santiago Gonzalez cambio agregado 
 55.
 56.
 57.
@@ -75,9 +75,9 @@ eliminar el cambio existente.
 69.
 70.
 71.
-72.
+72.Hola Soy santiago Restrepo este es mi cambio
 73.
-74.
+74. Cambio realizado por Diego Sanabria
 75.
 76.
 77.
@@ -87,7 +87,7 @@ eliminar el cambio existente.
 81.
 82. Cambio realizado por Luisa Espinal. 
 83.
-84.
+84. Cambio Juan Pablo Berrío
 85.
 86.
 87.
