@@ -43,7 +43,7 @@ eliminar el cambio existente.
 37.
 38.
 39.
-40. Hola, soy Juliana Franco
+40. Hola, soy Juliana Franco // soy Juan David Mosquera y este es mi cambio
 41.
 42.Mario Andrade
 43.Marcello M
