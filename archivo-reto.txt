@@ -21,7 +21,7 @@ eliminar el cambio existente.
 15. Cambio realizado por Sebastian Villa
 16.
 17.
-18. Cambio realizado por David Hernandez Mejia
+18. Cambio realizado por David Hernandez Mejia // cambio realizado por Alejandra Escobar
 19.
 20.
 21.
