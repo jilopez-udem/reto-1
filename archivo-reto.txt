@@ -8,20 +8,20 @@ eliminar el cambio existente.
 02.
 03.
 04.
-05.
+05.Cambio realizado por Juanita Legarda
 06.
 07.
 08.
 09.
 10.
 11.
-12.
+12. Cambio realizado por Sebastian Rendon
 13.
 14.
 15.
 16.
 17.
-18.
+18. Cambio realizado por David Hernandez Mejia
 19.
 20.
 21.
@@ -73,7 +73,7 @@ eliminar el cambio existente.
 67.
 68.
 69.
-70.
+70. cambio realizado por Nicol valeria atehortua A.
 71.
 72.Hola Soy santiago Restrepo este es mi cambio
 73.
