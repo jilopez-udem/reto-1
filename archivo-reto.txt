@@ -4,7 +4,7 @@ si mi cédula termina en 50, agregaré un cambio en la línea numerada como 50. 
 eliminar el cambio existente.
 
 00. 
-01.
+01.cambiado por juan jose cano giraldo 
 02.
 03.
 04.
