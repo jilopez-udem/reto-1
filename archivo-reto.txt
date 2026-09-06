@@ -33,7 +33,7 @@ eliminar el cambio existente.
 27.
 28.
 29.
-30.
+30. Cambio realizado por Simón Correa Bravo
 31.
 32.
 33.
@@ -104,3 +104,4 @@ eliminar el cambio existente.
 98.
 99. Cambio nicolas
 100. Cambio realizado por Juan Fernando Castañeda
+
