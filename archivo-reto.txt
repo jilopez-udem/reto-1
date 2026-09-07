@@ -16,7 +16,7 @@ eliminar el cambio existente.
 10.
 11.
 12. Cambio realizado por Sebastian Rendon
-13.
+13. Cambio realizado por Tomas Sepulveda
 14.
 15. Cambio realizado por Sebastian Villa
 16.
