@@ -24,7 +24,7 @@ eliminar el cambio existente.
 18. Cambio realizado por David Hernandez Mejia // cambio realizado por Alejandra Escobar
 19.
 20. Cambio realizado por Sara Rojas Martinez
-21.
+21. Cambio Realizado por Alejandro Ruiz 
 22. Acá Kevin Cifuentes hizo un cambio en el archivo. // Cambio realizado por Juan Ocampo. El mejor de los dias...
 23.
 24.
@@ -106,5 +106,3 @@ eliminar el cambio existente.
 100. Cambio realizado por Juan Fernando Castañeda
 101.
 102.Cambio realizado por Alejandro Ruiz
-
-
