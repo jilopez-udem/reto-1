@@ -61,7 +61,7 @@ eliminar el cambio existente.
 55.
 56.
 57.
-58.
+58.Holap, soly Valery Mosalve <3
 59.
 60. Cambio hecho por Kevin Gomez, linux for ever (arch,fedora,debian y nunca ubuntu) ;)
 61.
