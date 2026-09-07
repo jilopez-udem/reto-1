@@ -22,7 +22,6 @@ eliminar el cambio existente.
 16.
 17.
 18. Cambio realizado por David Hernandez Mejia // cambio realizado por Alejandra Escobar
-19.
 20. Cambio realizado por Sara Rojas Martinez
 21.
 22. Acá Kevin Cifuentes hizo un cambio en el archivo. // Cambio realizado por Juan Ocampo. El mejor de los dias...
@@ -46,7 +45,7 @@ eliminar el cambio existente.
 40. Hola, soy Juliana Franco // soy Juan David Mosquera y este es mi cambio
 41. Cambio realizado Miguel Angel Guarnizo 
 42.Mario Andrade
-43.Marcello M
+43.Francisco Gomez Gomez
 44.
 45.
 46.Reto 2 -cambio
