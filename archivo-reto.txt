@@ -25,7 +25,7 @@ eliminar el cambio existente.
 19.
 20. Cambio realizado por Sara Rojas Martinez
 21.
-22. Acá Kevin Cifuentes hizo un cambio en el archivo.
+22. Acá Kevin Cifuentes hizo un cambio en el archivo. // Cambio realizado por Juan Ocampo. El mejor de los dias...
 23.
 24.
 25.
