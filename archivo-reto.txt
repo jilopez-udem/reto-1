@@ -59,7 +59,7 @@ eliminar el cambio existente.
 53.
 54.Santiago Gonzalez cambio agregado 
 55.
-56. Cambio hecho por Heiver David Ruales Luna
+56. Cambio hecho por Heiver David Ruales Luna / Cambio hecho por Miguel Martinez :)
 57.
 58.Holap, soly Valery Mosalve <3
 59.
@@ -104,4 +104,3 @@ eliminar el cambio existente.
 98.
 99. Cambio nicolas
 100. Cambio realizado por Juan Fernando Castañeda
-101. Cambio realizado por Miguel Martinez Tamayo :)
