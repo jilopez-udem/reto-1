@@ -22,7 +22,7 @@ eliminar el cambio existente.
 16.
 17.
 18. Cambio realizado por David Hernandez Mejia // cambio realizado por Alejandra Escobar
-19.
+19. Cambio realizado por Cristopher Sánchez
 20. Cambio realizado por Sara Rojas Martinez
 21. Cambio Realizado por Alejandro Ruiz 
 22. Acá Kevin Cifuentes hizo un cambio en el archivo. // Cambio realizado por Juan Ocampo. El mejor de los dias...
